@@ -25,6 +25,9 @@ The system relies on **CSV files** containing marketing data, which are processe
 
 ---
 
+
+![ALT2](./images/image3.png)
+
 ## 📊 Power BI Dashboards  
 
 ### 📈 **Campaign Performance Dashboard**  
